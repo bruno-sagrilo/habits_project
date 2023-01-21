@@ -33,6 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Habits é um app para ajudar a rastrear os hábitos.
+s
+- [Visite o projeto online](https://amaterasu4u.github.io/habits_project/)
 
 ## 🔖 Layout
 
